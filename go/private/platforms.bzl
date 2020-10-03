@@ -108,6 +108,7 @@ CGO_GOOS_GOARCH = {
     ("freebsd", "amd64"): None,
     ("freebsd", "arm"): None,
     ("illumos", "amd64"): None,
+    ("ios", "arm64"): None,
     ("linux", "386"): None,
     ("linux", "amd64"): None,
     ("linux", "arm"): None,
