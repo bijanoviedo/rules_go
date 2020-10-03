@@ -48,6 +48,7 @@ GOOS_GOARCH = (
     ("freebsd", "amd64"),
     ("freebsd", "arm"),
     ("freebsd", "arm64"),
+    ("ios", "arm64"),
     ("illumos", "amd64"),
     ("js", "wasm"),
     ("linux", "386"),
